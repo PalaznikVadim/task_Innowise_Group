@@ -1,0 +1,4 @@
+{"name":"oleg","surname":"sdjgks","email":"oleg@gmail.com","roles":["sfsgdsg"],"mobiles":["37525 7654321"]}
+{"name":"vadim","surname":"palaznik","email":"pafaznik10@gmail.com","roles":["student"],"mobiles":["37525 7163790"]}
+{"name":"ana","surname":"dsad","email":"ana@gmail.com","roles":["sfdsf","sfdsf"],"mobiles":["37525 4567890"]}
+{"name":"lexa","surname":"dasda","email":"lexa@gmail.com","roles":["112d"],"mobiles":["37525 1234567"]}
