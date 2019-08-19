@@ -2,6 +2,10 @@ import com.google.gson.Gson;
 
 import java.util.Scanner;
 
+/*
+* user initialization property is User.email, it uses to update and delete a user
+* */
+
 public class Main {
 
     public static void main(String[] args) {
